@@ -8,6 +8,10 @@ Data preprocessing is an essential step in Artificial Intelligence and Machine L
 
 Real-world datasets may contain missing values, categorical information, and numerical features with different scales. Preprocessing helps improve data quality and makes the dataset suitable for machine learning algorithms.
 
+# OBJECTIVE
+
+To preprocess a dataset using Python and Scikit-learn by handling missing values, encoding categorical variables, splitting the dataset into training and testing sets, and applying feature scaling to prepare the data for machine learning applications.
+
 # Importance of Data Preprocessing
 
 Handling Missing Values: Missing data can affect the accuracy of machine learning models. Imputation techniques can be used to replace missing values.
